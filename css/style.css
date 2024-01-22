@@ -1,0 +1,42 @@
+body{
+    background-color: palegreen;
+    margin: 30px;
+
+    /*margin-left: 50px;*/
+    /*margin-top: 30px;*/
+
+    text-align: center;
+}
+
+p{
+    color: #106d48;
+}
+
+.one{
+    color: midnightblue;
+    border: darkgreen 2px solid;
+    border-radius: 12px;
+}
+
+b{
+   padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkred;
+    font-size: 40px;
+    border-bottom: darkred 1px solid;
+}
+
+.two{
+    font-size: 25px;
+}
+
+img{
+    width: 80%;
+    border-radius: 400px 120px 100px 150px;
+}
